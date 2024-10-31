@@ -1,0 +1,930 @@
+I
+capable
+absence
+guard
+bonus
+addition
+adult
+air
+airport
+smell
+vegetable
+farm
+arrive
+left
+account
+arch
+access
+To act, to do, to perform.
+activity
+attitude
+attention
+audience
+actor
+boat
+eagle
+leek
+garlic
+onion
+environment
+ambition
+america
+love
+almonds
+sunflower seed
+pineapple
+duck
+hurry
+dragon
+animal
+curiosity
+ancestor
+crisis
+arrest
+apricots
+approval
+arrange
+heart
+bank
+argentina
+agree
+box
+craft
+article
+heat
+artist
+vinegar
+gland
+asparagus
+aspect
+elevator
+achieve
+water
+swim
+up
+dawn
+ear
+gold
+orange
+australia
+oat
+bird
+own
+look
+court
+goal
+blue
+black
+black pepper
+blackberry
+band
+flag
+lettuce
+base
+great
+beef
+being
+beets
+beauty
+two
+truth
+bicycle
+white
+flavor
+flash
+bottom
+south africa
+south korea
+night
+cabbage
+brazil
+broccoli
+brush
+bucket
+border
+bunch
+butter
+they
+canada
+using
+with
+damage
+delay
+debt
+defense
+cause
+decline
+crime
+drop
+cigarette
+decade
+assume
+dedication
+devotion
+dialogue
+hell
+ten
+century
+war
+choice
+debate
+day
+sleep
+bedroom
+acquire
+get
+hear
+listen
+award
+drama
+couple
+eat
+when you eat something that brings back a memory
+a
+throw
+education
+teach
+error
+eggplant
+examination
+example
+exist
+exercise
+excuse
+explanation
+exchange
+equal
+equally
+same
+election
+declair
+blanket
+hello
+mood
+hug
+emphasis
+emotion
+buy
+customer
+in
+energy
+cashews
+entertain
+essay
+real
+estimate
+grade
+graduate
+escape
+destroy
+event
+bye
+cycle
+burst
+data
+ease
+ability
+perception
+see
+want
+female
+girl
+daughter
+queen
+sister
+flame
+burn
+belief
+credit
+fig
+field
+guilt
+flower
+fear
+hole
+branch
+strong
+castle
+desire
+brave
+courage
+strawberry
+crash
+france
+button
+freeze
+grab
+crop
+establishment
+mushroom
+crazy
+engineer
+ice cream
+general
+earth
+grape
+grass
+green
+green bean
+greenfield
+ginger
+corner
+why
+government
+degree
+entrance
+entry
+bulb
+goat
+grave
+god
+say
+speak
+glove
+house
+cabin
+peanut
+what
+sun
+mother
+motherland
+holy
+church
+barley
+wheat
+grain
+creation
+formation
+make
+assign
+assist
+assistant
+guest
+balance
+anxiety
+kiss
+india
+indonesia
+baby
+fire
+beginning
+equipment
+destruction
+smart
+genius
+detective
+sweet potato
+to
+guide
+existence
+italy
+excitement
+japan
+gift
+germany
+have
+ownership
+possession
+little
+gesture
+critic
+care
+dog
+room
+camera
+cage
+canal
+candy
+candidate
+desert
+lie
+top
+north korea
+morning
+budget
+over
+captain
+capital
+cranberry
+career
+card
+carrots
+carriage
+bell
+meat
+carpet
+carry
+cartoon
+case
+category
+cauliflower
+alert
+hollow
+chat
+kiwi
+defeat
+claim
+camp
+class
+classroom
+barrier
+climate
+club
+color
+clerk
+coast
+coach
+coat
+coffee
+coffeehouse
+coconut
+collect
+college
+collapse
+album
+associate
+group
+column
+advantage
+cake
+comment
+command
+comprehend
+comprehending
+comprehension
+know
+knowing
+knowledge
+understand
+understanding
+compare
+compete
+complain
+complete
+company
+computer
+commerce
+community
+effort
+condition
+conduct
+connect
+united kingdom
+united states
+conference
+confident
+conflict
+consequence
+concern
+consider
+context
+constant
+check
+drawer
+container
+attempt
+contest
+control
+contact
+control
+converse
+convert
+cook
+copy
+contract
+corn
+crown
+royal
+body
+doctor
+coin
+build
+create
+author
+made
+creature
+awareness
+code
+elbow
+melon
+watermelon
+cucumber
+culture
+comfort
+conclude
+concentrate
+concept
+concert
+construct
+zucchini
+stone
+follower
+cheese
+squash
+issue
+milk
+cream
+labour
+work
+how
+bed
+lentil
+leader
+if
+book
+library
+bookcase
+liquid
+edge
+language
+this
+moon
+clock
+time
+dream
+child
+kid
+childhood
+tomato
+device
+engine
+giant
+boy
+brother
+anger
+male
+king
+we (Speaker and listener)
+hand
+many
+mango
+bite
+dictator
+large
+metal
+media
+Average, or common
+mexico
+honey
+desk
+process
+mint
+dealer
+put
+center
+center
+chest
+midday
+decrease
+small
+chemistry
+fog
+thank
+amount
+atmosphere
+apple
+die
+dy
+bananas
+music
+birth
+future
+that
+doubt
+despair
+young
+no
+cold
+different
+unequal
+fake
+feeling when you know your going to die
+negative
+assassin
+bad
+To disagree
+ugly
+propaganda
+nigeria
+cloud
+when
+seven
+name
+nectarine
+nine
+fool
+power
+economy
+duty
+eight
+celery
+olive oil
+all
+are
+our
+employee
+east
+rice
+basil
+egg
+lamb
+oxygen
+bread
+breadfruit
+expansion
+papaya
+around
+close
+near
+past
+cup
+country
+halt
+pause
+stop
+peach
+fold
+run
+jog
+walk
+sail
+jump
+descend
+stand
+fall
+rush
+sprint
+flight
+fly
+glide
+or
+cost
+parsley
+five
+accept
+experience
+danger
+expert
+angle
+accomplish
+avocado
+plant
+ball
+pea
+fish
+fishery
+bakery
+flat
+potato chips
+board
+answer
+gentleman
+nation
+plum
+old
+little
+similar
+pomegranate
+pork
+door
+after
+positive
+hope
+good
+available
+before
+challenge
+now
+present
+early
+grant
+deep
+development
+conglomerate
+dorm room
+lung
+off
+chicken
+dust
+pumpkin
+drive
+pear
+radish
+area
+walnut
+criteria
+correct
+rest
+represent
+show
+brief
+resource
+anniversary
+crack
+growth
+bill
+ceremony
+red
+raspberry
+blood
+russia
+sugar
+sacrifice
+medic
+saudi arabia
+focus
+cough
+six
+decision
+draft
+cherry
+brain
+sesame seed
+rye
+tahini
+yes
+soy sauce
+brick
+glass
+hair
+chimney
+mustard
+detail
+belt
+cinnamon
+circle
+stick
+chickpea
+city
+chair
+civil
+bone
+bench
+write
+text
+my
+couch
+soy
+alone
+sound
+drum
+social
+ghost
+appearance
+spinach
+potato
+down
+sit
+sink
+flesh
+as
+like
+artichoke
+rotten
+dance
+tea
+cover
+tech
+from
+hard
+tense
+darkness
+dark
+place
+territory
+continent
+country
+grocery
+ground
+design
+approach
+arrival
+come
+cotton
+cross
+bridge
+wind
+go
+movement
+moving
+three
+for
+champion
+change
+charge
+charity
+charm
+chase
+accident
+blend
+date
+quinoa
+gum
+chili
+china
+chocolate
+guarantee
+turnip
+crowd
+turkey
+turmeric
+idiot
+because
+you
+on
+taste
+announce
+one
+generation
+peace
+bottle
+of
+human
+individual
+person
+blueberry
+it
+warn
+artificial
+artificial intelligence
+is
+afford
+drink
+curtain
+benefit
+word
+earthworm
+building
+dress
+without you
+we (Speaker only)
+adventure
+advice
+right
+course
+picture
+who
+vision
+eye
+addict
+life
+stripe
+blame
+voice
+be
+bell peppers
+beans
+and
+analysis
+yogurt
+zero
+clove
+the
+then
+The feeling after something loud like a concert when silence feels loud even though it's silence
+Déjà Vu, the phenomenon of feeling as though one has lived through the present situation before.
+Feeling of support from people who aren't there.
+The feeling of power or energy from being alone.
+Out, or out of.
+Sunlight.
+Light.
+Sunlight filtering through the leaves of trees.
+Tree.
+Leaves
+Paper
+Speak only the truth and nothing but it.
+To feel.
+Play.
+A person who loves to play with there words.
+A person who loves to play.
+A lucid dream. A controllable dream.
+A bad dream.
+A good dream.
+A wave pattern.
+A hundred.
+Sick, sickness.
+A fever.
+A tan.
+Skin.
+Healthy.
+Good skin, smooth, young.
+Bad or ugly skin, wrinkly.
+A mark, or scar.
+Scarred or damaged skin.
+A person who loves but is more addicted to mints.
+A person addicted to candy or sweets.
+A person who loves but is not addicted to mints.
+A person who loves but is not addicted to candy or sweets.
+Food.
+To move hot food in your mouth to cool it down.
+The community spirit to work for the common good.
+Touch.
+Sky.
+To touch the sky.
+A structure human made that touches the sky.
+Freaky. Weird odd unordinary.
+To pretend something, usaully an emotion.
+A wise usually old person, who understands and has much knowledge.
+The meaning of life.
+Pain.
+Pain that fuels positivity.
+Pain that fuels negitivity.
+A play with actors that tells a story.
+Wanting to cause people pain.
+Pain that gives energy to a person.
+A sound that causes mental pain or triggers a person negitively.
+Something bad sounding.
+A painful life.
+Feeling to have to breath manually, often after someone makes you breath on command once.
+Please.
+My own, mine.
+To argue, to vocally disagree.
+Feeling of calm or tranquility.
+A theatre.
+A musical threatre.
+To play music.
+The living room, or most commonly used place in a house.
+A neutral mood.
+Not common, different, or not average.
+Odd, weird.
+Unique, one of a kind.
+An individuals beliefs.
+A stick used for writing.
+Not near, far away from.
+Dead, the state of die.
+Judge the living.
+Judge the dead.
+To make or alter an existing work.
+To offer an offer. 
+To study, to strongly learn.
+To learn.
+To be broken or destroyed.
+By or near a person, place or thing.
+Going to do something or an objective.
+The peoples, or belonging to the people.
+need
+Any stringed instrument.
+A piano that is played by a pianist.
+An unnamed object, or a thing.
+An object.
+Has, or is in possesion of.
+Feather.
+To perch.
+The soul, or essence of a human.
+The essence.
+To sing, or chorus.
+In the action of doing.
+A song/tune.
+Ever, all the time.
+Not ever, never.
+At, at a certain thing.
+To bind, two things or more together.
+Sweet tasting.
+A number, or a count.
+Big.
+The most of something.
+Must.
+To disturb, or disrupt.
+A storm or sky disturbance.
+To keep or retain possesion of.
+Once.
+To a degree or extent.
+Warm, or subtlety hot.
+Chill, or subtely cool or cold.
+A sea or body of water.
+A question.
+To send.
+To ask.
+Could, ability or permission in past.
+A state of something.
+Somethings identity.
+Sad feeling.
+To effect something.
+Happy feeling.
+To curse with something bad of that thing.
+To curse with bad music playing, or listening.
+A pig, or swine.
+Yellow color.
+Purple color.
+Pink, or rose color.
+To be directionally straight.
+To get directionally straight to something.
+Ice.
+Salt.
+Sour.
+To taste, tastes.
+Halloween.
+Think before you do something.
+A plan or a way to execute an idea, or a guide to what to act on.
+Authoritarian, to have all control and power.
+A smile.
+To be doing something.
+To attack or hurt.
+To kick with the legs.
+Foot pain.
+A small round bread, like a bun.
+To wish a person bad health, and hope that they break a bone.
+The sweet release of the void.
+Victory.
+Total, or full.
+Divine or sacred, loved by a people.
