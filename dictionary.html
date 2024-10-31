@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dictionary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .word-container {
+            display: inline-block;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            position: relative;
+        }
+        .word {
+            cursor: pointer;
+            color: blue;
+            text-decoration: underline;
+        }
+        .definition {
+            display: none;
+            margin-left: 5px;
+            color: green;
+            position: absolute;
+            background-color: white;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 10px;
+            z-index: 10;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        .highlight {
+            color: red;
+        }
+        .pagination {
+            margin-top: 20px;
+        }
+        .pagination button {
+            margin: 0 5px;
+        }
+        #search, #sort-options {
+            margin-bottom: 20px;
+            padding: 10px;
+            width: calc(100% - 22px);
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>English to Kivlanik Dictionary</h1>
+<input type="text" id="search" placeholder="Search for a word or definition...">
+<select id="sort-options">
+    <option value="alphabetical">Sort Alphabetically</option>
+    <option value="lengthAsc">Sort by Length (Shortest First)</option>
+    <option value="lengthDesc">Sort by Length (Longest First)</option>
+</select>
+<div id="dictionary"></div>
+<div class="pagination" id="pagination"></div>
+
+<script>
+    const wordsPerPage = 72;
+    let currentPage = 1;
+    let entries = []; // Array to hold words and definitions
+    let filteredEntries = [];
+
+    async function fetchWords() {
+        const response = await fetch('https://raw.githubusercontent.com/IONT2/Kivlanik/main/1.txt');
+        const text = await response.text();
+        return text.split('\n').filter(word => word);
+    }
+
+    async function fetchDefinitions() {
+        const response = await fetch('https://raw.githubusercontent.com/IONT2/Kivlanik/main/2.txt');
+        const text = await response.text();
+        return text.split('\n').filter(def => def);
+    }
+
+    async function buildDictionary() {
+        const words = await fetchWords();
+        const definitions = await fetchDefinitions();
+        
+        // Combine words and definitions into an array of objects
+        entries = words.map((word, index) => ({
+            word,
+            definition: definitions[index] || "No definition available."
+        }));
+
+        filteredEntries = entries; // Initially, filtered entries are all entries
+        displayPage(currentPage);
+        setupPagination();
+        setupSearch();
+        setupSort();
+    }
+
+    function setupSearch() {
+        const searchInput = document.getElementById('search');
+        searchInput.addEventListener('input', () => {
+            const searchTerm = searchInput.value.toLowerCase();
+            filteredEntries = entries.filter(entry => 
+                entry.word.toLowerCase().includes(searchTerm) || 
+                entry.definition.toLowerCase().includes(searchTerm)
+            );
+            currentPage = 1; // Reset to first page on new search
+            sortAndDisplay();
+        });
+    }
+
+    function setupSort() {
+        const sortSelect = document.getElementById('sort-options');
+        sortSelect.addEventListener('change', () => {
+            sortAndDisplay();
+        });
+    }
+
+    function sortAndDisplay() {
+        const sortOption = document.getElementById('sort-options').value;
+
+        if (sortOption === 'alphabetical') {
+            filteredEntries.sort((a, b) => a.word.localeCompare(b.word));
+        } else if (sortOption === 'lengthAsc') {
+            filteredEntries.sort((a, b) => a.word.length - b.word.length);
+        } else if (sortOption === 'lengthDesc') {
+            filteredEntries.sort((a, b) => b.word.length - a.word.length);
+        }
+
+        displayPage(currentPage);
+        setupPagination();
+    }
+
+    function displayPage(page) {
+        const startIndex = (page - 1) * wordsPerPage;
+        const endIndex = startIndex + wordsPerPage;
+        const dictionaryDiv = document.getElementById('dictionary');
+        dictionaryDiv.innerHTML = '';
+
+        const pageEntries = filteredEntries.slice(startIndex, endIndex);
+        
+        pageEntries.forEach(entry => {
+            const wordContainer = document.createElement('div');
+            wordContainer.className = 'word-container';
+
+            const wordSpan = document.createElement('span');
+            wordSpan.textContent = entry.word;
+            wordSpan.className = 'word';
+            
+            const definitionSpan = document.createElement('span');
+            definitionSpan.textContent = entry.definition;
+            definitionSpan.className = 'definition';
+            
+            wordSpan.addEventListener('mouseover', () => {
+                definitionSpan.style.display = 'block';
+                wordSpan.classList.add('highlight');
+            });
+
+            wordSpan.addEventListener('mouseout', () => {
+                definitionSpan.style.display = 'none';
+                wordSpan.classList.remove('highlight');
+            });
+
+            wordSpan.addEventListener('click', () => {
+                definitionSpan.style.display = 
+                    definitionSpan.style.display === 'block' ? 'none' : 'block';
+            });
+
+            wordContainer.appendChild(wordSpan);
+            wordContainer.appendChild(definitionSpan);
+            dictionaryDiv.appendChild(wordContainer);
+        });
+    }
+
+    function setupPagination() {
+        const paginationDiv = document.getElementById('pagination');
+        paginationDiv.innerHTML = '';
+
+        const totalPages = Math.ceil(filteredEntries.length / wordsPerPage);
+
+        for (let i = 1; i <= totalPages; i++) {
+            const button = document.createElement('button');
+            button.textContent = i;
+            button.onclick = () => {
+                currentPage = i;
+                displayPage(currentPage);
+            };
+            paginationDiv.appendChild(button);
+        }
+    }
+
+    buildDictionary();
+</script>
+
+</body>
+</html>
