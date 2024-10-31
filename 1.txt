@@ -826,7 +826,7 @@ friki
 eltakt
 setrien
 vivkomp
-dol -
+dol
 posidol
 nesidol
 aktenspiel
@@ -861,7 +861,6 @@ daften
 parate
 skartof
 komthaft
-
 opor
 amfikord
 freheenamfikord
