@@ -967,3 +967,7 @@ Hundred.
 A statement with only two answers usaully yes, or no/true, or false.
 Million.
 A feeling of unreality or failure to understand what is happening.
+To be special or important.
+The number Pi (π) or circumference divided by diameter.
+The number Phi (φ) or the golden ratio.
+Euler's number or the base of the natural logarithm.
