@@ -962,3 +962,7 @@ A place that something should not happen.
 A mental break down.
 To hesitate to do something.
 The age or time of existance.
+Ten.
+Hundred.
+A statement with only two answers usaully yes, or no/true, or false.
+Million.
