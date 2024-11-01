@@ -950,3 +950,6 @@ holm
 eþor
 fin
 runhan
+fidef
+bied
+geld
