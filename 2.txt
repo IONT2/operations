@@ -966,3 +966,4 @@ Ten.
 Hundred.
 A statement with only two answers usaully yes, or no/true, or false.
 Million.
+A feeling of unreality or failure to understand what is happening.
