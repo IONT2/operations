@@ -967,3 +967,7 @@ cent
 binarus
 mil
 sliviar
+ivin
+trivinom
+univinom
+bivinom
