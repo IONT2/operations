@@ -977,3 +977,15 @@ Where, or what place.
 To walk through something.
 To open something.
 To close something or the opposite of opening something.
+The month of January.
+The month of February.
+The month of March.
+The month of April.
+The month of May.
+The month of June.
+The month of July.
+The month of August.
+The month of September.
+The month of October.
+The month of November.
+The month of December.
