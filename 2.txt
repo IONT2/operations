@@ -1,14 +1,11 @@
 I
-Tree.
 capable
 absence
 guard
-To hesitate to do something.
 bonus
 addition
 adult
 air
-Sky.
 airport
 smell
 vegetable
@@ -19,8 +16,6 @@ account
 arch
 access
 To act, to do, to perform.
-A play with actors that tells a story.
-A theatre.
 activity
 attitude
 attention
@@ -31,15 +26,10 @@ eagle
 leek
 garlic
 onion
-Friend.
 environment
 ambition
 america
-A place that something should not happen.
-Any stringed instrument.
 love
-A person who loves but is not addicted to candy or sweets.
-A person who loves but is not addicted to mints.
 almonds
 sunflower seed
 pineapple
@@ -47,7 +37,6 @@ duck
 hurry
 dragon
 animal
-A person who loves to play.
 curiosity
 ancestor
 crisis
@@ -63,20 +52,16 @@ box
 craft
 article
 heat
-A fever.
 artist
 vinegar
 gland
 asparagus
 aspect
 elevator
-In the action of doing.
-To be doing something.
 achieve
 water
 swim
 up
-A smile.
 dawn
 ear
 gold
@@ -84,35 +69,26 @@ orange
 australia
 oat
 bird
-To offer an offer. 
-The month of August.
 own
 look
-oxygen
 court
 goal
 blue
 black
 black pepper
 blackberry
-To keep or retain possesion of.
 band
 flag
 lettuce
 base
 great
-A mountain.
 beef
 being
 beets
 beauty
 two
 truth
-A path or trail.
-A statement with only two answers usaully yes, or no/true, or false.
-To bind, two things or more together.
 bicycle
-Euler's number or the base of the natural logarithm.
 white
 flavor
 flash
@@ -129,9 +105,7 @@ border
 bunch
 butter
 they
-Hundred.
-A mental break down.
-To be broken or destroyed.
+canada
 using
 with
 damage
@@ -143,9 +117,6 @@ decline
 crime
 drop
 cigarette
-Skin.
-Ten.
-The month of December.
 decade
 assume
 dedication
@@ -154,32 +125,21 @@ dialogue
 hell
 ten
 century
-Speak only the truth and nothing but it.
-At, at a certain thing.
 war
-To learn.
 choice
 debate
-Divine or sacred, loved by a people.
 day
-Pain.
-Pain that gives energy to a person.
-Wanting to cause people pain.
-A sound that causes mental pain or triggers a person negitively.
-A painful life.
 sleep
 bedroom
 acquire
 get
 hear
 listen
-People who listen.
 award
 drama
 couple
 eat
 when you eat something that brings back a memory
-A fort.
 a
 throw
 education
@@ -188,14 +148,10 @@ error
 eggplant
 examination
 example
-Out, or out of.
 exist
 exercise
 excuse
-bye
-cycle
 explanation
-burst
 exchange
 equal
 equally
@@ -205,10 +161,7 @@ declair
 blanket
 hello
 mood
-To pretend something, usaully an emotion.
-Please.
 hug
-Once.
 emphasis
 emotion
 buy
@@ -217,7 +170,6 @@ in
 energy
 cashews
 entertain
-The essence.
 essay
 real
 estimate
@@ -226,15 +178,14 @@ graduate
 escape
 destroy
 event
-To perch.
-Lightning.
+bye
+cycle
+burst
 data
-Could, ability or permission in past.
 ease
 ability
 perception
 see
-The month of February.
 want
 female
 girl
@@ -244,23 +195,15 @@ sister
 flame
 burn
 belief
-A window.
 credit
 fig
 field
-To wander.
 guilt
-Start.
-To effect something.
 flower
 fear
-Leaves
 hole
-A small bridge over a river.
 branch
 strong
-To study, to strongly learn.
-A stronghold.
 castle
 desire
 brave
@@ -269,9 +212,7 @@ strawberry
 crash
 france
 button
-A piano that is played by a pianist.
 freeze
-Freaky. Weird odd unordinary.
 grab
 crop
 establishment
@@ -279,7 +220,6 @@ mushroom
 crazy
 engineer
 ice cream
-Money or pay.
 general
 earth
 grape
@@ -287,14 +227,8 @@ grass
 green
 green bean
 greenfield
-Sunlight filtering through the leaves of trees.
-have
-ownership
-possession
 ginger
-Ice.
 corner
-To think or be in a state of thought on deep thinking.
 why
 government
 degree
@@ -305,30 +239,23 @@ goat
 grave
 god
 say
-To argue, to vocally disagree.
 speak
-Has, or is in possesion of.
 glove
 house
 cabin
 peanut
 what
 sun
-A tan.
-Sunlight.
 mother
 motherland
 holy
 church
-An island.
 barley
 wheat
 grain
-Somethings identity.
 creation
 formation
 make
-To make or alter an existing work.
 assign
 assist
 assistant
@@ -336,8 +263,6 @@ guest
 balance
 anxiety
 kiss
-To attack or hurt.
-The anatomy of inside of a something or structure.
 india
 indonesia
 baby
@@ -349,34 +274,25 @@ smart
 genius
 detective
 sweet potato
-Sweet tasting.
 to
 guide
-A shape with sides.
-To be rotationally symmetrical
 existence
 italy
 excitement
-To be special or important.
-The month of January.
 japan
 gift
 germany
-The month of June.
-Warm, or subtlety hot.
+have
+ownership
+possession
 little
-Chill, or subtely cool or cold.
 gesture
 critic
-Judge the dead.
-Judge the living.
-The month of July.
 care
 dog
 room
 camera
 cage
-canada
 canal
 candy
 candidate
@@ -448,9 +364,7 @@ complete
 company
 computer
 commerce
-The peoples, or belonging to the people.
 community
-The community spirit to work for the common good.
 effort
 condition
 conduct
@@ -471,22 +385,17 @@ container
 attempt
 contest
 control
-A lucid dream. A controllable dream.
 contact
 control
 converse
 convert
 cook
 copy
-To sing, or chorus.
-Think before you do something.
-A song/tune.
 contract
 corn
 crown
 royal
 body
-A sea or ocean or a body of water.
 doctor
 coin
 build
@@ -508,10 +417,8 @@ concept
 concert
 construct
 zucchini
-To curse with something bad of that thing.
 stone
 follower
-A question.
 cheese
 squash
 issue
@@ -531,10 +438,7 @@ liquid
 edge
 language
 this
-A story or tail.
-Light.
 moon
-A grove or orchard.
 clock
 time
 dream
@@ -542,7 +446,6 @@ child
 kid
 childhood
 tomato
-The month of May.
 device
 engine
 giant
@@ -555,60 +458,40 @@ we (Speaker and listener)
 hand
 many
 mango
-Touch.
-To touch the sky.
-A structure human made that touches the sky.
 bite
-The month of March.
-A plan or a way to execute an idea, or a guide to what to act on.
-Authoritarian, to have all control and power.
 dictator
 large
 metal
-Big.
-The most of something.
-A lake or pond.
 media
-An individuals beliefs.
 Average, or common
-The living room, or most commonly used place in a house.
 mexico
 honey
-To forget.
 desk
 process
 mint
 dealer
 put
 center
-A neutral mood.
 center
 chest
 midday
-chemistry
-Million.
 decrease
 small
-To send.
-To ask.
+chemistry
 fog
 thank
 amount
-Sour.
-Sick, sickness.
-Sad feeling.
 atmosphere
 apple
 die
 dy
 bananas
 music
-To curse with bad music playing, or listening.
-To play music.
-A musical threatre.
 birth
 future
 that
+doubt
+despair
 young
 no
 cold
@@ -616,21 +499,8 @@ different
 unequal
 fake
 feeling when you know your going to die
-Not common, different, or not average.
-An unnamed object, or a thing.
-Not ever, never.
-Not near, far away from.
-Dead, the state of die.
-To open something.
 negative
-Bad or ugly skin, wrinkly.
-Pain that fuels negitivity.
-A bad dream.
 assassin
-Odd, weird.
-doubt
-despair
-Something bad sounding.
 bad
 To disagree
 ugly
@@ -640,34 +510,25 @@ cloud
 when
 seven
 name
-A number, or a count.
 nectarine
-The month of November.
 nine
 fool
-An object.
 power
-A feeling that is unique to ones self.
 economy
 duty
 eight
-The month of October.
 celery
 olive oil
 all
-Ever, all the time.
 are
 our
 employee
-need
-A base of operations.
 east
 rice
-To get directionally straight to something.
-To be directionally straight.
 basil
 egg
 lamb
+oxygen
 bread
 breadfruit
 expansion
@@ -675,25 +536,21 @@ papaya
 around
 close
 near
-By or near a person, place or thing.
 past
-Déjà Vu, the phenomenon of feeling as though one has lived through the present situation before.
 cup
-To feel.
 country
 halt
 pause
 stop
 peach
+fold
 run
 jog
 walk
 sail
 jump
-Foot pain.
 descend
 stand
-To kick with the legs.
 fall
 rush
 sprint
@@ -711,9 +568,7 @@ expert
 angle
 accomplish
 avocado
-fold
 plant
-pear
 ball
 pea
 fish
@@ -725,9 +580,7 @@ board
 answer
 gentleman
 nation
-A feeling of calm or tranquility.
 plum
-To a degree or extent.
 old
 little
 similar
@@ -736,11 +589,6 @@ pork
 door
 after
 positive
-Good skin, smooth, young.
-Pain that fuels positivity.
-Feeling of support from people who aren't there.
-A good dream.
-Unique, one of a kind.
 hope
 good
 available
@@ -748,30 +596,25 @@ before
 challenge
 now
 present
-The month of April.
 early
 grant
 deep
 development
 conglomerate
 dorm room
-To be proud or have pride.
-Feather.
 lung
-Feeling to have to breath manually, often after someone makes you breath on command once.
 off
 chicken
 dust
 pumpkin
 drive
-A pyramid.
+pear
 radish
 area
 walnut
 criteria
 correct
 rest
-Must.
 represent
 show
 brief
@@ -781,90 +624,62 @@ crack
 growth
 bill
 ceremony
-Pink, or rose color.
-Purple color.
 red
 raspberry
 blood
-A mystery, secret, or something unkown.
 russia
 sugar
 sacrifice
-Salt.
-Halloween.
-Healthy.
 medic
 saudi arabia
-Happy feeling.
 focus
 cough
 six
 decision
-A hundred.
 draft
-The month of September.
 cherry
 brain
 sesame seed
 rye
 tahini
-A wise usually old person, who understands and has much knowledge.
 yes
 soy sauce
-Food.
-as
-like
 brick
 glass
 hair
 chimney
-A wave pattern.
 mustard
-artichoke
 detail
 belt
 cinnamon
 circle
-A small round bread, like a bun.
 stick
 chickpea
 city
 chair
 civil
-A pig, or swine.
-Going to do something or an objective.
 bone
-An enemy or an opponent.
 bench
 write
-A stick used for writing.
 text
-A feeling of unreality or failure to understand what is happening.
-A type of unexpected event.
-The age or time of existance.
 my
-My own, mine.
-To wish a person bad health, and hope that they break a bone.
 couch
 soy
 alone
-The feeling of power or energy from being alone.
 sound
 drum
 social
-Awesome.
 ghost
 appearance
-Play.
 spinach
-A state of something.
 potato
 down
 sit
 sink
 flesh
-To walk through something.
-The feeling after something loud like a concert when silence feels loud even though it's silence
+as
+like
+artichoke
 rotten
 dance
 tea
@@ -886,20 +701,16 @@ approach
 arrival
 come
 cotton
-Total, or full.
 cross
 bridge
 wind
-To move hot food in your mouth to cool it down.
 go
 movement
 moving
 three
-The number Pi (π) or circumference divided by diameter.
 for
 champion
 change
-Paper
 charge
 charity
 charm
@@ -915,45 +726,33 @@ chocolate
 guarantee
 turnip
 crowd
-To disturb, or disrupt.
-A storm or sky disturbance.
 turkey
 turmeric
 idiot
-A mark, or scar.
-Scarred or damaged skin.
 because
-Where, or what place.
 you
-To recreate.
 on
 taste
 announce
 one
 generation
-The number Phi (φ) or the golden ratio.
 peace
 bottle
 of
-The soul, or essence of a human.
 human
 individual
 person
 blueberry
 it
-The sweet release of the void.
 warn
 artificial
 artificial intelligence
 is
-Everyone or every person in the room.
 afford
 drink
 curtain
 benefit
-To close something or the opposite of opening something.
 word
-A person who loves to play with there words.
 earthworm
 building
 dress
@@ -965,30 +764,231 @@ right
 course
 picture
 who
-To taste, tastes.
 vision
 eye
-Victory.
 addict
-A person addicted to candy or sweets.
-A person who loves but is more addicted to mints.
 life
-The meaning of life.
 stripe
 blame
 voice
 be
 bell peppers
 beans
-Rules or laws.
-To rank, rank, ranking.
 and
-Yellow color.
 analysis
 yogurt
 zero
 clove
 the
 then
-Thunder.
+The feeling after something loud like a concert when silence feels loud even though it's silence
+Déjà Vu, the phenomenon of feeling as though one has lived through the present situation before.
+Feeling of support from people who aren't there.
+The feeling of power or energy from being alone.
+Out, or out of.
+Sunlight.
+Light.
+Sunlight filtering through the leaves of trees.
+Tree.
+Leaves
+Paper
+Speak only the truth and nothing but it.
+To feel.
+Play.
+A person who loves to play with there words.
+A person who loves to play.
+A lucid dream. A controllable dream.
+A bad dream.
+A good dream.
+A wave pattern.
+A hundred.
+Sick, sickness.
+A fever.
+A tan.
+Skin.
+Healthy.
+Good skin, smooth, young.
+Bad or ugly skin, wrinkly.
+A mark, or scar.
+Scarred or damaged skin.
+A person who loves but is more addicted to mints.
+A person addicted to candy or sweets.
+A person who loves but is not addicted to mints.
+A person who loves but is not addicted to candy or sweets.
+Food.
+To move hot food in your mouth to cool it down.
+The community spirit to work for the common good.
+Touch.
+Sky.
+To touch the sky.
+A structure human made that touches the sky.
+Freaky. Weird odd unordinary.
+To pretend something, usaully an emotion.
+A wise usually old person, who understands and has much knowledge.
+The meaning of life.
+Pain.
+Pain that fuels positivity.
+Pain that fuels negitivity.
+A play with actors that tells a story.
+Wanting to cause people pain.
+Pain that gives energy to a person.
+A sound that causes mental pain or triggers a person negitively.
+Something bad sounding.
+A painful life.
+Feeling to have to breath manually, often after someone makes you breath on command once.
+Please.
+My own, mine.
+To argue, to vocally disagree.
+A theatre.
+A musical threatre.
+To play music.
+The living room, or most commonly used place in a house.
+A neutral mood.
+Not common, different, or not average.
+Odd, weird.
+Unique, one of a kind.
+An individuals beliefs.
+A stick used for writing.
+Not near, far away from.
+Dead, the state of die.
+Judge the living.
+Judge the dead.
+To make or alter an existing work.
+To offer an offer. 
+To study, to strongly learn.
+To learn.
+To be broken or destroyed.
+By or near a person, place or thing.
+Going to do something or an objective.
+The peoples, or belonging to the people.
+need
+Any stringed instrument.
+A piano that is played by a pianist.
+An unnamed object, or a thing.
+An object.
+Has, or is in possesion of.
+Feather.
+To perch.
+The soul, or essence of a human.
+The essence.
+To sing, or chorus.
+In the action of doing.
+A song/tune.
+Ever, all the time.
+Not ever, never.
+At, at a certain thing.
+To bind, two things or more together.
+Sweet tasting.
+A number, or a count.
+Big.
+The most of something.
+Must.
+To disturb, or disrupt.
+A storm or sky disturbance.
+To keep or retain possesion of.
+Once.
+To a degree or extent.
+Warm, or subtlety hot.
+Chill, or subtely cool or cold.
+A sea or ocean or a body of water.
+A question.
+To send.
+To ask.
+Could, ability or permission in past.
+A state of something.
+Somethings identity.
+Sad feeling.
+To effect something.
+Happy feeling.
+To curse with something bad of that thing.
+To curse with bad music playing, or listening.
+A pig, or swine.
+Yellow color.
+Purple color.
+Pink, or rose color.
+To be directionally straight.
+To get directionally straight to something.
+Ice.
+Salt.
+Sour.
+To taste, tastes.
+Halloween.
+Think before you do something.
+A plan or a way to execute an idea, or a guide to what to act on.
+Authoritarian, to have all control and power.
+A smile.
+To be doing something.
+To attack or hurt.
+To kick with the legs.
+Foot pain.
+A small round bread, like a bun.
+To wish a person bad health, and hope that they break a bone.
+A feeling of calm or tranquility.
+The sweet release of the void.
+Victory.
+Total, or full.
+Divine or sacred, loved by a people.
+A pyramid.
+The anatomy of inside of a something or structure.
+To think or be in a state of thought on deep thinking.
+To be rotationally symmetrical
+A shape with sides.
+Awesome.
+Start.
+People who listen.
+A fort.
+A stronghold.
+A base of operations.
+A mountain.
 A settlement, village.
+A small bridge over a river.
+Rules or laws.
+A lake or pond.
+A grove or orchard.
+An island.
+Thunder.
+Lightning.
+To wander.
+A mystery, secret, or something unkown.
+A window.
+A path or trail.
+Money or pay.
+To be proud or have pride.
+Everyone or every person in the room.
+A story or tail.
+To recreate.
+A feeling that is unique to ones self.
+A place that something should not happen.
+A mental break down.
+To hesitate to do something.
+The age or time of existance.
+Ten.
+Hundred.
+A statement with only two answers usaully yes, or no/true, or false.
+Million.
+A feeling of unreality or failure to understand what is happening.
+To be special or important.
+The number Pi (π) or circumference divided by diameter.
+The number Phi (φ) or the golden ratio.
+Euler's number or the base of the natural logarithm.
+To forget.
+To rank, rank, ranking.
+Where, or what place.
+To walk through something.
+To open something.
+To close something or the opposite of opening something.
+The month of January.
+The month of February.
+The month of March.
+The month of April.
+The month of May.
+The month of June.
+The month of July.
+The month of August.
+The month of September.
+The month of October.
+The month of November.
+The month of December.
+Friend.
+An enemy or an opponent.
+A type of unexpected event.
