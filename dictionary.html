@@ -119,20 +119,25 @@
         });
     }
 
-    function sortAndDisplay() {
-        const sortOption = document.getElementById('sort-options').value;
+function sortAndDisplay() {
+    const sortOption = document.getElementById('sort-options').value;
 
-        if (sortOption === 'alphabetical') {
-            filteredEntries.sort((a, b) => a.word.localeCompare(b.word));
-        } else if (sortOption === 'lengthAsc') {
-            filteredEntries.sort((a, b) => a.word.length - b.word.length);
-        } else if (sortOption === 'lengthDesc') {
-            filteredEntries.sort((a, b) => b.word.length - a.word.length);
-        }
-
-        displayPage(currentPage);
-        setupPagination();
+    if (sortOption === 'alphabetical') {
+        // Sort by both word and definition
+        filteredEntries.sort((a, b) => {
+            const wordCompare = a.word.localeCompare(b.word);
+            if (wordCompare !== 0) return wordCompare;
+            return a.definition.localeCompare(b.definition); // Sort by definition as a fallback
+        });
+    } else if (sortOption === 'lengthAsc') {
+        filteredEntries.sort((a, b) => a.word.length - b.word.length);
+    } else if (sortOption === 'lengthDesc') {
+        filteredEntries.sort((a, b) => b.word.length - a.word.length);
     }
+
+    displayPage(currentPage);
+    setupPagination();
+}
 
     function displayPage(page) {
         const startIndex = (page - 1) * wordsPerPage;
