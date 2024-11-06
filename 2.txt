@@ -993,3 +993,5 @@ A type of unexpected event.
 A wheel.
 A derogetry word for someone.
 Foot.
+A contration that means without you.
+A contration that means without the person who is speaking.
