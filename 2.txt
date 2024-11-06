@@ -1000,3 +1000,5 @@ museum
 Fear.
 Soccer
 Football
+A party.
+Punishment.
