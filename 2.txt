@@ -994,3 +994,4 @@ An enemy or an opponent.
 A type of unexpected event.
 A wheel.
 A derogetry word for someone.
+Foot.
