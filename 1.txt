@@ -993,3 +993,5 @@ smaben
 sirkate
 valmin
 pod
+'vev
+'taen
