@@ -992,3 +992,4 @@ The month of December.
 Friend.
 An enemy or an opponent.
 A type of unexpected event.
+A wheel.
