@@ -756,8 +756,6 @@ verb
 verm
 vern
 vest
-veva
-veva mamn
 veventur
 vevise
 veþor
