@@ -998,3 +998,5 @@ pod
 posle
 musam
 colavie
+futal
+sokror
