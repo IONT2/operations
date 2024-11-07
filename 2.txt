@@ -788,7 +788,7 @@ Sunlight.
 Light.
 Sunlight filtering through the leaves of trees.
 Tree.
-Leaves
+Leaf
 Paper
 Speak only the truth and nothing but it.
 To feel.
@@ -1002,3 +1002,33 @@ Soccer
 Football
 A party.
 Punishment.
+Bark that a dog makes or a bark sound.
+The out layer of the tree, treebark.
+belly
+big
+A claw-like tool.
+A claw on an animal.
+To grab or claw at something.
+A mental illness.
+feather
+full
+give
+head
+horn
+knee
+liver
+long
+neck
+new
+nose
+rain
+road
+root
+sand
+smoke
+star
+tail
+thou
+tongue
+tooth
+virtuoso
