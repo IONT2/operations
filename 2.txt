@@ -1033,3 +1033,5 @@ tongue
 tooth
 virtuoso
 virtue
+Soccer player.
+Football Player.
