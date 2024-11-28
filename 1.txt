@@ -1031,5 +1031,7 @@ skanos
 du
 tunzey
 dent
-virtono
+virtanu
 vert
+futalanu
+sokroranu
