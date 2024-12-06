@@ -1035,3 +1035,10 @@ virtuoso
 virtue
 Soccer player.
 Football Player.
+Tail.
+End.
+Describe.
+An adjective.
+A verb.
+An adverb.
+A part of the end of a word that describes an idea around it.
