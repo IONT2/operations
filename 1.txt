@@ -417,7 +417,7 @@ kunsepþ
 kunsert
 kunstrukt
 kurbin
-kvran
+sten
 kwa
 kwenin
 kwuarsh
@@ -465,9 +465,9 @@ maurn
 medak
 medio
 mehiko
-meley
+melae
 mena
-mente
+mentee
 menth
 merk
 met
@@ -1035,3 +1035,10 @@ virtanu
 vert
 futalanu
 sokroranu
+waen
+end
+jekt
+verbjekt
+verbel
+verbeljekt
+jektend
