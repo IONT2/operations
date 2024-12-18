@@ -1042,3 +1042,4 @@ An adjective.
 A verb.
 An adverb.
 A part of the end of a word that describes an idea around it.
+It seems like.
