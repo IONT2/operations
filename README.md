@@ -1,2 +1,2 @@
-# Kivlanik
-The official language of kivlan
+# Opere
+The official language of operations
